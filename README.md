@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubh kirti.
 - 👀 I’m interested in Software Developer field.
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on User interface.
 - 📫 How to reach me kirtishubh9@gmail.com
 
